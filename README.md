@@ -3,6 +3,7 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Gameplay](#gameplay)
+- [Demo GIF](#demo gif)
 - [Features](#features)
 - [Installation](#installation)
 - [Controls](#controls)
@@ -20,7 +21,7 @@
 
 ## Demo GIF
 
-
+![SurvivorCursorGame](https://github.com/user-attachments/assets/47848a19-6f4b-40a3-b606-2c06a6dedaa3)
 
 ## Features
 - Simple but addictive gameplay mechanics
