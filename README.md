@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Gameplay](#gameplay)
-- [Demo GIF](#demogif)
+- [Demo](#demo)
 - [Features](#features)
 - [Installation](#installation)
 - [Controls](#controls)
@@ -19,7 +19,7 @@
 - Survive as long as possible against increasingly difficult waves
 - Compete for high scores with friends and the global community
 
-## Demo GIF
+## Demo
 
 ![SurvivorCursorGame](https://github.com/user-attachments/assets/47848a19-6f4b-40a3-b606-2c06a6dedaa3)
 
