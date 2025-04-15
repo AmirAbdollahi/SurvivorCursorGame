@@ -18,6 +18,10 @@
 - Survive as long as possible against increasingly difficult waves
 - Compete for high scores with friends and the global community
 
+## Demo GIF
+
+
+
 ## Features
 - Simple but addictive gameplay mechanics
 - Progressive difficulty system
