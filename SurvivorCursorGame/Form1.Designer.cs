@@ -1,4 +1,4 @@
-﻿namespace GameIssa
+﻿namespace SurvivorCursorGame
 {
     partial class Form1
     {
