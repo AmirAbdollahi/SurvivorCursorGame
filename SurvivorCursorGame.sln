@@ -1,9 +1,9 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
-# Visual Studio 2013
-VisualStudioVersion = 12.0.30501.0
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GameIssa", "GameIssa\GameIssa.csproj", "{D8A442C4-00B1-441F-9C2B-383B20B48C96}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SurvivorCursorGame", "SurvivorCursorGame\SurvivorCursorGame.csproj", "{D8A442C4-00B1-441F-9C2B-383B20B48C96}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,9 +15,8 @@ Global
 	GlobalSection(ProjectConfigurationPlatforms) = postSolution
 		{D8A442C4-00B1-441F-9C2B-383B20B48C96}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
 		{D8A442C4-00B1-441F-9C2B-383B20B48C96}.Debug|Any CPU.Build.0 = Debug|Any CPU
-		{D8A442C4-00B1-441F-9C2B-383B20B48C96}.Debug|x64.ActiveCfg = Release|x64
-		{D8A442C4-00B1-441F-9C2B-383B20B48C96}.Debug|x64.Build.0 = Release|x64
-		{D8A442C4-00B1-441F-9C2B-383B20B48C96}.Debug|x64.Deploy.0 = Release|x64
+		{D8A442C4-00B1-441F-9C2B-383B20B48C96}.Debug|x64.ActiveCfg = Debug|x64
+		{D8A442C4-00B1-441F-9C2B-383B20B48C96}.Debug|x64.Build.0 = Debug|x64
 		{D8A442C4-00B1-441F-9C2B-383B20B48C96}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{D8A442C4-00B1-441F-9C2B-383B20B48C96}.Release|Any CPU.Build.0 = Release|Any CPU
 		{D8A442C4-00B1-441F-9C2B-383B20B48C96}.Release|x64.ActiveCfg = Release|x64
