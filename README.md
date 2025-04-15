@@ -3,7 +3,7 @@
 ## Table of Contents
 - [Introduction](#introduction)
 - [Gameplay](#gameplay)
-- [Demo GIF](#demo gif)
+- [Demo GIF](#demogif)
 - [Features](#features)
 - [Installation](#installation)
 - [Controls](#controls)
